@@ -63,7 +63,7 @@ saas-erp/
 
 ```bash
 # 1. Clone and configure
-git clone git@github.com:mg4u/nexus-erp.git saas-erp
+git clone git@github.com:Demetrius-fullstack/nexus-erp.git saas-erp
 cd saas-erp
 cp .env.example .env
 
@@ -302,6 +302,6 @@ This project is **Source Available** under a custom non-commercial license. See 
 - ✅ Contributions welcome — must be submitted to this repository
 - ❌ Commercial use requires a separate license
 
-**For commercial licensing inquiries, contact:** [mahmoud.dev.gamal@gmail.com](mailto:mahmoud.dev.gamal@gmail.com)
+**For commercial licensing inquiries, contact:** [meechisaac0824@gmail.com](mailto:meechisaac0824@gmail.com)
 
-© 2025–2026 Mahmoud Hassan. All rights reserved.
+© 2025–2026 Demetrius Isaac. All rights reserved.
