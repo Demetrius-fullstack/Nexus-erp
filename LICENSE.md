@@ -1,13 +1,13 @@
 # Nexus ERP — Source Available License
 
-**Copyright (c) 2025–2026 Mahmoud Hassan. All rights reserved.**
+**Copyright (c) 2025–2026 Demetrius Isaac. All rights reserved.**
 
 ## Terms and Conditions
 
 ### 1. Definitions
 
 - **"Software"** means the Nexus ERP source code, documentation, and associated files in this repository.
-- **"Author"** means Mahmoud Hassan and any designated maintainers of this repository.
+- **"Author"** means Demetrius Isaac and any designated maintainers of this repository.
 - **"Contribution"** means any modification, enhancement, bug fix, or addition to the Software.
 - **"Commercial Use"** means any use of the Software intended for or directed toward commercial advantage or monetary compensation, including but not limited to: selling, licensing, offering as a hosted service (SaaS), or integrating into a commercial product.
 
@@ -42,8 +42,8 @@ This requirement ensures that all improvements benefit the entire community of u
 If you wish to use the Software for Commercial Use, you **must** contact the Author to obtain a separate commercial license.
 
 **Contact for commercial licensing:**
-- **Email:** [Mahmoud Hassan](mailto:mahmoud.dev.gamal@gmail.com)
-- **GitHub:** [mg4u](https://github.com/mg4u)
+- **Email:** [Demetrius Isaac](mailto:meechisaac0824@gmail.com)
+- **GitHub:** [Demetrius-fullstack](https://github.com/Demetrius-fullstack)
 
 Commercial licenses are negotiated on a case-by-case basis and may include different terms, support agreements, and pricing.
 
